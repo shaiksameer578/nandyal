@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+    float: inline-end;
+    
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #0d0d0e;
+    font-family: "Roboto";
+    font-style: italic;
+}
+
+#navItem3 {
+    color: #08b9ff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 300;
+    
+
+}
+
+#navItem4 {
+    color: #fcfcfc;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url(logo.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+}
+
+.banner-heading {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 800;
+    font-style: italic;
+ 
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 550;
+    font-style: italic;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#fa0000, #c9027c);
+    width: 230px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 18px;
+    margin-right: 15px;
+    margin-top: 24px;
+    font-size: 16px;
+}
+.custom-button1 {
+    color: white;
+    background-image: linear-gradient(#c40303, #f10000);
+    width: 230px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 18px;
+    margin-right: 15px;
+    margin-top: 24px;
+    font-size: 16px;
+}
+.custom-button2 {
+    color: white;
+    background-image: linear-gradient(#050505, #000000);
+    width: 230px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 18px;
+    margin-right: 15px;
+    margin-top: 24px;
+    font-size: 16px;
+}
+.custom-button3 {
+    color: white;
+    background-image: linear-gradient(#09c403, #60f100);
+    width: 230px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 18px;
+    margin-right: 15px;
+    margin-top: 24px;
+    font-size: 16px;
+}
+.custom-button4 {
+    color: white;
+    background-image: linear-gradient(#0026cf, #0004f1);
+    width: 230px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 18px;
+    margin-right: 15px;
+    margin-top: 24px;
+    font-size: 16px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #ecfff4;
+}
+.footer-sections {
+    background-color: #295f92;
+}
+
+.footer-section-mail-id {
+    color: #a7a4a4;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 50px;
+   
+}
+.footer-section-mail-id1 {
+    color: #fffefe;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 50px;
+   
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+    float: left !important;
+    
+}
+.aha-logo {
+    width: 150px;
+    height: 150px;
+}
+.phone-color{
+    color: #d0b200;
+}
+.delivery{
+    font-size: 15px;
+    color: #ffffff;
+    float: left !important;
+    font-style: italic;
+    font-family: "Roboto";
+}
+.note{
+    font-weight: 700;
+    color: #fc0000;
+    float: left !important;
+}
